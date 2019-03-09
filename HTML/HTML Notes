@@ -1,0 +1,25 @@
+HTML Notes
+
+
+style    -    id     -  class , pseudo-class, attribute    -    number of elements
+
+CSS
+Box model
+
+The background property
+	color
+	position
+	image
+
+Positioning Elements by Floating
+	floating elements produce flexible layouts
+	Floats are taken out oif normla document flow
+	To resume the flow use "clear"
+
+Relative and Absolute Positioning 
+	position:relative;  -> part of normal doc flow
+	top:20px;
+	left:20px;
+	position:absolute  -> Removed from normal doc flow
+
+Responsive Design
